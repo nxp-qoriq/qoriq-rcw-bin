@@ -1,7 +1,0 @@
-/*
- * PBI Commands for LS1021AQDS and LS1021ATWR.
- */
-
-.pbi
-write 0xee0200, 0x60100000
-.end
